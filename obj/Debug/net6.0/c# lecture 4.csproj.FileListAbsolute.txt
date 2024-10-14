@@ -1,0 +1,15 @@
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\bin\Debug\net6.0\c# lecture 4.exe
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\bin\Debug\net6.0\c# lecture 4.deps.json
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\bin\Debug\net6.0\c# lecture 4.runtimeconfig.json
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\bin\Debug\net6.0\c# lecture 4.dll
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\bin\Debug\net6.0\c# lecture 4.pdb
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.csproj.AssemblyReference.cache
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.AssemblyInfoInputs.cache
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.AssemblyInfo.cs
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.csproj.CoreCompileInputs.cache
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.dll
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\refint\c# lecture 4.dll
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.pdb
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\c# lecture 4.genruntimeconfig.cache
+C:\Users\asp.APTECHNN2\source\repos\c# lecture 4\obj\Debug\net6.0\ref\c# lecture 4.dll
